@@ -32,7 +32,7 @@ Download the latest DMG from the [Releases](https://github.com/elliotttate/Cover
 ### Build from Source
 1. Clone the repository:
    ```bash
-   git clone https://github.com/elliotttate/FlowFinder.git
+   git clone https://github.com/elliotttate/CoverFlowFinder.git
    ```
 2. Open `FlowFinder.xcodeproj` in Xcode
 3. Build and run (⌘R)
@@ -93,5 +93,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## Acknowledgments
 
 Inspired by the classic Cover Flow view from iTunes and older versions of macOS Finder.
+
 
 
